@@ -1,4 +1,4 @@
 # Cube
 
-Mise en application des animations CSS sur un cube<br/>
+Training : Application of CSS animations on a cube<br/>
 Démo : https://improvit.github.io/cube/
